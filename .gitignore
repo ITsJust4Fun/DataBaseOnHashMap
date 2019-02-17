@@ -1,0 +1,11 @@
+.vs/
+debug/
+GeneratedFiles/
+release/
+x64/
+.qmake.stash
+123.json
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
